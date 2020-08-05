@@ -14,5 +14,6 @@ It includes a mathematics base of ml methods with detailed discription.
 - Classification & Regression metrics and e.t.c.
 - Prediction of time series
 - Neural networks(PyTorch and TensorFlow)
+- Computer vision & NLP
 
 <img  src="https://www.pngkey.com/png/full/314-3142803_machine-learning-clip-arts.png" alt="center" width="767" height="430">
